@@ -91,8 +91,8 @@ export const workData = [
     },
     {
         title: 'Full Stack MERN',
-        description: 'Doc appointment',
-        bgImage: '/doc-appoint.png',
+        description: 'Notion Learn',
+        bgImage: '/notion-learn.png',
     },
     
 ]
